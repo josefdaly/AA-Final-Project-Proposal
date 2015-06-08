@@ -15,11 +15,9 @@
 ## Backbone
 ### Models
 * Subject
-* BookSubject
 
 ### Collections
 * Subjects
-* BookSubjects
 
 ### Views
 * SubjectShow
