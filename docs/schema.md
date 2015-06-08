@@ -16,7 +16,7 @@ column name | data type | details
 id          | integer   | not null, primary key
 title       | string    | not null
 release_date| date      | not null
-author_id   | string    | not null, foreign key
+author_id   | integer   | not null, foreign key
 doc_url     | string    | not null
 
 ## reviews
@@ -25,8 +25,8 @@ column name | data type | details
 id          | integer   | not null, primary key
 author_id   | integer   | not null, foreign key
 book_id     | integer   | not null, foreign key
-out_of_five | integer   | not null
-qualitative | string    |
+quantitative| integer   | not null
+qualitative | text      |
 
 ## library-items
 column name | data type | details
