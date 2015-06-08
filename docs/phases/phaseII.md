@@ -25,10 +25,12 @@
 ### Collections
 * Books
 * Collections
+
 ### Views
 * BookShow
 * CollectionShow
 * UserShow
 * BooksIndex
 * CollectionIndex
+
 ## Gems/Libraries
