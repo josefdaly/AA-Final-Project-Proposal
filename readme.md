@@ -3,15 +3,18 @@
 ## Minimum Viable Product
 ReadMe will be an ebook self publishing platform. Users of the site will be able to:
 
-- [ ] Create accounts
-- [ ] Create sessions (log in)
-- [ ] Upload epubs
-- [ ] Open epubs in an eReader
-- [ ] Leave reviews for books
+- [x] Create accounts
+- [x] Create sessions (log in)
+- [x] Upload epubs
+- [x] Open epubs in an eReader
+- [x] Leave reviews for books
+- [x] Search books by title
+
+## Bonus Features
+
 - [ ] Create personal libraries
-- [ ] Create collections
 - [ ] Comment on collections
-- [ ] Search books by title
+- [ ] Create collections
 - [ ] Search books by subject
 - [ ] Search collections by title
 
