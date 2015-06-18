@@ -9,10 +9,10 @@ ReadMe will be an ebook self publishing platform. Users of the site will be able
 - [x] Open epubs in an eReader
 - [x] Leave reviews for books
 - [x] Search books by title
+- [ ] Create personal libraries
 
 ## Bonus Features
 
-- [ ] Create personal libraries
 - [ ] Comment on collections
 - [ ] Create collections
 - [ ] Search books by subject
